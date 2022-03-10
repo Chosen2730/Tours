@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Tours/static/css/main.36cfb1f0.chunk.css",
-    "main.js": "/Tours/static/js/main.5130c7d4.chunk.js",
-    "main.js.map": "/Tours/static/js/main.5130c7d4.chunk.js.map",
+    "main.js": "/Tours/static/js/main.e2fd59d2.chunk.js",
+    "main.js.map": "/Tours/static/js/main.e2fd59d2.chunk.js.map",
     "runtime-main.js": "/Tours/static/js/runtime-main.83f56e71.js",
     "runtime-main.js.map": "/Tours/static/js/runtime-main.83f56e71.js.map",
     "static/js/2.b79bb511.chunk.js": "/Tours/static/js/2.b79bb511.chunk.js",
     "static/js/2.b79bb511.chunk.js.map": "/Tours/static/js/2.b79bb511.chunk.js.map",
     "index.html": "/Tours/index.html",
-    "precache-manifest.11fb03c9a576c5fa01f94b4b24fc34ac.js": "/Tours/precache-manifest.11fb03c9a576c5fa01f94b4b24fc34ac.js",
+    "precache-manifest.c735272ea7b86519af0d6e78b36715fb.js": "/Tours/precache-manifest.c735272ea7b86519af0d6e78b36715fb.js",
     "service-worker.js": "/Tours/service-worker.js",
     "static/css/main.36cfb1f0.chunk.css.map": "/Tours/static/css/main.36cfb1f0.chunk.css.map",
     "static/js/2.b79bb511.chunk.js.LICENSE.txt": "/Tours/static/js/2.b79bb511.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.83f56e71.js",
     "static/js/2.b79bb511.chunk.js",
     "static/css/main.36cfb1f0.chunk.css",
-    "static/js/main.5130c7d4.chunk.js"
+    "static/js/main.e2fd59d2.chunk.js"
   ]
 }
